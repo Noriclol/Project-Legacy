@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50ae179f53b8da94cac4902a9f0efab8, type: 3}
+  m_Name: Cruiser
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 3348532884699197827, guid: e3647dc6a3c5beb42bfb60e1d7b9694b, type: 3}
